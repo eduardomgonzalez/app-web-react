@@ -27,6 +27,7 @@ Se abre una pestaña del navegador en el puerto 3000:
 
 
 ## Screenshot
-
+![pantalla](https://user-images.githubusercontent.com/44064190/89700684-a5a05200-d906-11ea-94c6-8d374d3ae483.png)
 
 ## Link de la aplicación en producción:
+https://eduardomgonzalez.github.io/app-web-react/
