@@ -1,6 +1,8 @@
 ## Descripción
 
 Proyecto de práctica para afianzar conceptos con ReactJs para un curso sobre ésta misma tecnología de la academia **Programa desde tu casa**.
+La aplicacion tiene una tabla con datos obtenidos desde un array de objetos, los cuales se pueden eliminar cada registro con un boton, se pueden agregar registros a través de un formulario y cambiar el avatar del Nav.
+Es solo frontend sin persistencia de datos.
 
 **Tecnologías y librerías:**
 
